@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/samples-annotations-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/samples-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/sblim-cim-client2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/ssoclient.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/ssosamples.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/vim25.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/VMware-vSphere-SDK-5.5.0-1284541/SDK/vsphere-ws/java/JAXWS/lib/wssamples.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/artifacts.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/content.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/plugins/com.vmware.vide.deploy_3.0.0.1284990.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/plugins/com.vmware.vide.jdt_3.0.0.1284990.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/plugins/com.vmware.vide.project_3.0.0.1284990.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/plugins/com.vmware.vide.sdk.vsphere.management55_5.5.0.1284541.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/features/com.vmware.vide.jdt.feature_3.0.0.1284990.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/features/com.vmware.vide.project.feature_3.0.0.1284990.jar"/>
+	<classpathentry kind="lib" path="C:/Kunal/Cloud computing/UpdateSite-SDK-vSphereManagement-Java_5.5.0.1284541/features/com.vmware.vide.sdk.vsphere.management55.feature_5.5.0.1284541.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

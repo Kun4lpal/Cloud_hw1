@@ -1,0 +1,36 @@
+
+String hostName = 128.230.208.175
+
+String serverName = CloudComputing01
+
+String userName = vsphere.local\CloudComputing
+
+String password = CSE612@2017
+
+String url = https://128.230.247.56/sdk/vimService
+-------------------------------------------------------------------------
+
+Key 2 was pressed
+
+VMware vCenter Server 6.0.0 build-3634793
+
+Server type is VirtualCenter
+
+API version is 6.0.0
+Sample time range: Wed Mar 01 14:40:00 EST 2017 - Wed Mar 01 14:43:00 EST 2017
+CPU usage in megahertz during the interval :
+1527 1397 1382 1386 1480 1504 1424 1876 2072 1731 
+
+AVERAGE :1577
+Sample time range: Wed Mar 01 14:40:00 EST 2017 - Wed Mar 01 14:43:00 EST 2017
+Displaying Memory Usage in MBytes
+1023.75 1023.7421875 1053.140625 1053.14453125 1032.6640625 1065.55859375 1086.01171875 1055.296875 1083.4296875 1042.46875 
+
+AVERAGE :1051.920703125
+Sample time range:  Date:2017-03-01 Time: 9:40:00 to 2017-03-01 Time: 9:43:00
+Available Network Bandwidth :100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 
+AVERAGE :100.0
+Available Network Bandwidth :99.9228515625 99.9794921875 99.9873046875 99.984375 99.982421875 99.978515625 99.8916015625 99.9765625 99.96875 99.9736328125 
+AVERAGE :99.96455078125
+Available Network Bandwidth :99.9228515625 99.9794921875 99.9873046875 99.984375 99.982421875 99.978515625 99.8916015625 99.9765625 99.96875 99.9736328125 
+AVERAGE :99.96455078125
